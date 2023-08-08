@@ -6,7 +6,7 @@ require (
 	github.com/creack/pty v1.1.18
 	github.com/juju/fslock v0.0.0-20160525022230-4d5c94c67b4b
 	github.com/mattn/go-colorable v0.1.13
-	golang.org/x/text v0.3.7
+	golang.org/x/text v0.3.8
 )
 
 require (
